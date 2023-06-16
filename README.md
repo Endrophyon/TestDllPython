@@ -1,2 +1,2 @@
 # TestDllPython
-TestDllPython by Endrophyon
+It's my First Attaching Python Script to DLL... Enjoy!!! :D
