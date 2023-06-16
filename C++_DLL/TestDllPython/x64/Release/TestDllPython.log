@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\98709\source\repos\TestDllPython\x64\Release\TestDllPython.lib and object C:\Users\98709\source\repos\TestDllPython\x64\Release\TestDllPython.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestDllPython.vcxproj -> C:\Users\98709\source\repos\TestDllPython\x64\Release\TestDllPython.dll
