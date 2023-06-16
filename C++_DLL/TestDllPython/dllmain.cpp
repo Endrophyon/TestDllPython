@@ -5,6 +5,8 @@ using namespace std;
 
 extern "C" __declspec(dllexport) void TestMsg() {
     MessageBoxA(0, "Test DLL in Python!!!", "TestDllPython", MB_OK | MB_ICONEXCLAMATION);
+    Sleep(1500);
+    exit(122);
 }
 
 BOOL APIENTRY DllMain( HMODULE hModule,
