@@ -1,2 +1,2 @@
 # TestDllPython
-It's my First Python Script to Attaching DLL... Enjoy!!! :D
+It's my First Python Script for Attaching DLL... Enjoy!!! :D
